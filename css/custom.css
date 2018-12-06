@@ -63,3 +63,12 @@
 	.rounded-circle {
 		border: 1px solid #bdc3c7;
 	}
+
+	.img-thumbnail {
+		border: 0px;
+	}
+
+	.img-thumbnail:hover {
+		border: 1px solid #bdc3c7;
+		/* background-color: #ecf0f1; */
+	}
