@@ -32,4 +32,34 @@
   .nav-tabs--left .nav-link.active:hover {
 	background-color: #fff;
 	border-color: #0275d8 #fff #0275d8 #0275d8;
-  }
+	}
+	
+	.card-body img {
+		height: 200px;
+		width: 100%;
+		object-fit: contain;
+	}
+
+	footer {
+		height: 120px;
+		width: 100%;
+		background-color: #34495e;
+		color: #fff;
+	}
+
+	i,.fa {
+		color: #fff;
+	}
+
+	.btn-link h4 {
+		color: #212529;
+	}
+
+	.btn-link:hover, 	.btn-link:focus{
+    color: #0056b3; 
+		text-decoration: none;
+	}
+
+	.rounded-circle {
+		border: 1px solid #bdc3c7;
+	}
